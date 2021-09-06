@@ -1,4 +1,4 @@
-# Neural-Encoding-and-Noie-Correlation
+# Neural-Encoding-and-Noise-Correlation
 • ISI and CV were calculated for simulated neural data from simple and leaky integrate
 and fire neuron models and also real neural recordings. Then, the lower variability in
 computational models was fixed by adding inhibitory neurons to the leaky model. It
